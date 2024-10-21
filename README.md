@@ -1,3 +1,3 @@
-# repo01
+# c4-quiz-1
 
-Welcome to the coding summer school
+I am welcome to coding summer school
